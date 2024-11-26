@@ -1,2 +1,3 @@
-# linux-toolkit
-Re-implementation of popular UNIX utilities in Go. ⛮
+# Linux Toolkit. ⛮
+
+Re-implementation of popular UNIX utilities in Go. ✨
